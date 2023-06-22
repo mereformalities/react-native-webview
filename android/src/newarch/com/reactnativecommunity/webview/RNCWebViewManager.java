@@ -394,6 +394,15 @@ public class RNCWebViewManager extends SimpleViewManager<RNCWebView>
 
     @Override
     public void setFraudulentWebsiteWarningEnabled(RNCWebView view, boolean value) {}
+<<<<<<< Updated upstream
+=======
+
+    @Override
+    public void setMenuItems(RNCWebViewWrapper view, ReadableArray value) {}
+
+    @Override
+    public void setMediaCapturePermissionGrantType(RNCWebViewWrapper view, @Nullable String value) {}
+>>>>>>> Stashed changes
     /* !iOS PROPS - no implemented here */
 
     @Override
