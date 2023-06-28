@@ -391,21 +391,12 @@ public class RNCWebViewManager extends ViewGroupManager<RNCWebViewWrapper>
 
     @Override
     public void setFraudulentWebsiteWarningEnabled(RNCWebView view, boolean value) {}
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
 
     @Override
-=======
->>>>>>> 9e0b3e55dde9ec40783eea27ea7d7b3bad46d1fe
     public void setMenuItems(RNCWebViewWrapper view, ReadableArray value) {}
 
     @Override
     public void setMediaCapturePermissionGrantType(RNCWebViewWrapper view, @Nullable String value) {}
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> 9e0b3e55dde9ec40783eea27ea7d7b3bad46d1fe
     /* !iOS PROPS - no implemented here */
 
     @Override
